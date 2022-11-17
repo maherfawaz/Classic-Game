@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dd63b70c02c5445bbee752f38ead772, type: 3}
+  m_Name: GMTK_Settings_MegaMan2
+  m_EditorClassIdentifier: 
+  maxSpeed: 5
+  maxAcceleration: 80
+  maxDecceleration: 60
+  maxTurnSpeed: 40
+  maxAirAcceleration: 0
+  maxAirDeceleration: 0
+  maxAirTurnSpeed: 100
+  friction: 0
+  useAcceleration: 1
+  jumpHeight: 3.5
+  jumpDurationFromVideo: 3
+  timeToJumpApex: 0.43333334
+  upwardMovementMultiplier: 1
+  downwardMovementMultiplier: 1
+  maxAirJumps: 0
+  variablejumpHeight: 1
+  jumpCutOff: 4
+  speedLimit: 12
+  coyoteTime: 0.15
+  jumpBuffer: 0.2
+  squashAndStretch: 0
+  jumpSquashSettings: {x: 0, y: 0, z: 0}
+  landSquashSettings: {x: 0, y: 0, z: 0}
+  landSqueezeMultiplier: 0
+  jumpSqueezeMultiplier: 0
+  landDrop: 1
+  leanForward: 0
+  maxTilt: 0
+  tiltSpeed: 0
